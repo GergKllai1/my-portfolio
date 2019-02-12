@@ -25,11 +25,15 @@ export default class Projects extends Component {
                 <ProjectCard project={project} />
             )
         })
-        debugger;
         return (
-            <div>
-                {projectList}
+            <div className='bg-dark h-auto'>
+                <div className='container'>
+                    <div className='row'>
+                        {projectList}
+                    </div>
+                </div>
             </div>
+
         )
     }
 }

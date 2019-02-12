@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "My First Website",
-        "image": "../src/images/myfirst.png",
+        "image": "https://images.tynker.com/blog/wp-content/uploads/09-05-2017-why-coding-infographic-blog.png",
         "description": "My first website. It's noth much as to be expected, just kept here to see where I come from :)",
         "github": "https://github.com/GergKllai1/GergKllai1.github.io",
         "website": "https://gergkllai1.github.io/",
@@ -11,8 +11,8 @@
     },
     {
         "id": 2,
-        "name": "Library simulator",
-        "image": "../src/images/library.jpg",
+        "name": "Library Simulator",
+        "image": "https://www.mah.se/ImageVaultFiles/id_16995/cf_90/Orkanenbiblioteket.JPG?",
         "description": " A library simulator written in ruby tested with rspec. Users can create a collection, add books to it, people can take out and return books. The application was made to practice basic concepts of application design test driven development and collaboration",
         "github": "https://github.com/GergKllai1/library-challenge",
         "technology1": "../src/images/ruby.png",
@@ -21,7 +21,7 @@
     {
         "id": 3,
         "name": "ATM simulator",
-        "image": "../src/images/atm.jpg",
+        "image": "https://www.hcu.org/Resources/57bba030-f5e2-460a-8ca3-082e3477c176/ATMbanner.jpg",
         "description": "An ATM simulator written in ruby tested with rspec. Users can make account, deposit, withdraw, get a job and work. The application was made to pratice test driven development, pair programming and the connection between classes.",
         "github": "https://github.com/GergKllai1/ATM_Challenge",
         "technology1": "../src/images/ruby.png",
@@ -30,7 +30,7 @@
     {
         "id": 4,
         "name": "BMI Calcultator in Javascript",
-        "image": "../src/images/bmi.jpg",
+        "image": "https://bicepsexercise.in/wp-content/uploads/2018/06/BMI.jpg",
         "description": "A simple BMI calculator written in JavaScript tested with cucumber. User can calculate his/her BMI with a toggle for changing from metric to imperial method. The application was made to pratice JS concepct, testing in JS using cucumber. ",
         "github": "https://github.com/GergKllai1/BMI-calculator",
         "website": "https://bmicalc.netlify.com/",
@@ -40,7 +40,7 @@
     {
         "id": 5,
         "name": "Address Book",
-        "image": "../src/images/address.jpg",
+        "image": "https://www.lifewire.com/thmb/rd2GgxAVWJLUN59vD2aD2pZKNXU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/address-book-entry-contact-information-172182709-57b885c95f9b58cdfdafc9f1.jpg",
         "description": "An address book written in JavaScript using browser local storage for storing contacts and cucumber for testing.The user can add contacts and which are being stored and displayed on the page. The application was made to practice local storage in the browser, and testing in javascript with cucumber",
         "github": "https://github.com/GergKllai1/Adress_book/",
         "website": "https://gergkllai1.github.io/Adress_book/",
