@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import axios from 'axios';
 import ProjectCard from './ProjectCard';
+import { NavLink } from 'react-router-dom'
 
 export default class Projects extends Component {
     constructor() {
@@ -26,12 +27,24 @@ export default class Projects extends Component {
             )
         })
         return (
-            <div className='bg-dark h-auto'>
+            <div className='main h-auto'>
                 <div className='container'>
                     <div className='row'>
                         {projectList}
                     </div>
                 </div>
+                <div className='w-100 d-flex justify-content-around pb-5'>
+                        <NavLink
+                        className='btn btn-outline-light btn-lg'
+                        to='/'>
+                            Projects
+                        </NavLink>
+                        <NavLink
+                        className='btn btn-outline-light btn-lg'
+                        to='/about'>
+                            About Me
+                        </NavLink>
+                    </div>
             </div>
 
         )
