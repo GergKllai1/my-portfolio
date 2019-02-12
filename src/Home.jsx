@@ -1,6 +1,5 @@
 import React from 'react'
 import {NavLink} from 'react-router-dom'
-import {Transition} from 'react-transition-group'
 import './Home.css'
 
 const Home = () => {
