@@ -27,7 +27,7 @@ export default class Projects extends Component {
             )
         })
         return (
-            <div className='main h-auto'>
+            <div className='main page h-auto'>
                 <div className='container'>
                     <div className='row'>
                         {projectList}

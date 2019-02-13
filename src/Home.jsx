@@ -4,9 +4,9 @@ import './Home.css'
 
 const Home = () => {
     return (
-        <div className='main text-white'>
-            <h2 className='text-center display-2'>Gregory Kallai</h2>
+        <div className='main page text-white'>
             <div className='h-75 d-flex flex-column m-2 align-items-center justify-content-between'>
+            <h2 className='text-center display-2'>Gregory Kallai</h2>
                 <h3 className='m-4 display-4'>Full Stack Developer</h3>
                 <div className='w-100 d-flex justify-content-around m-4'>
                     <NavLink
