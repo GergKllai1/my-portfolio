@@ -5,3 +5,8 @@
     background-position: center center;
     height: 100%;
 }
+
+.img:hover {
+    cursor: pointer;
+    border: white solid 1.5px;
+}
