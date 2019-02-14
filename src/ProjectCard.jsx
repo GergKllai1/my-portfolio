@@ -10,8 +10,8 @@ function ProjectCard(props) {
                 modal
                 closeOnDocumentClick
                 >
-                <h4>{project.description1}</h4>
-                <p>{project.description2}</p>
+                <h4 className='p-4'>{project.description1}</h4>
+                <p className='p-4'>{project.description2}</p>
             </Popup>
             <div className='card-body'>
                 <h3 className='card-title pb-2'>{project.name}</h3>
