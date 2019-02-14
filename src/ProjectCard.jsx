@@ -4,7 +4,7 @@ import React from 'react'
 function ProjectCard(props) {
     let project = props.project
     return (
-        <div className='card m-4 bg-light shadow-lg' style={{ width: '20rem', height: '22rem' }}>
+        <div className='card m-4 bg-light shadow-lg' style={{ width: '20rem', height: '23rem' }}>
             <img style={{ width: '20rem', height: '10rem' }} src={project.image} alt="" />
             <div className='card-body'>
                 <h3 className='card-title pb-2'>{project.name}</h3>

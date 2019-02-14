@@ -46,5 +46,53 @@
         "website": "https://gergkllai1.github.io/Adress_book/",
         "technology1": "https://cdn.freebiesupply.com/logos/large/2x/javascript-logo-png-transparent.png",
         "technology2": "https://cdn.freebiesupply.com/logos/large/2x/cucumber-logo-png-transparent.png"
+    },
+    {
+        "id": 6,
+        "name": "Moe's Tavern",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7atNE-uucQaDz3oGVGV26GH5EsNw052x_lAIzX0JygbjkgSDp",
+        "description": "An address book written in JavaScript using browser local storage for storing contacts and cucumber for testing.The user can add contacts and which are being stored and displayed on the page. The application was made to practice local storage in the browser, and testing in javascript with cucumber",
+        "github": "https://github.com/GergKllai1/Adress_book/",
+        "website": "https://moestavern.herokuapp.com/",
+        "technology1": "http://gloify.com/wp-content/uploads/2018/02/rails.png",
+        "technology2": "https://cdn-images-1.medium.com/max/1600/1*wpwQI9X7wWUAeLO4b5537w.png",
+        "technology3": "https://cdn.freebiesupply.com/logos/large/2x/cucumber-logo-png-transparent.png",
+        "technology4": "https://futuremarketing.co/wp-content/uploads/2018/03/Tailwind.png"
+    },
+    {
+        "id": 7,
+        "name": "Crafty News",
+        "image": "https://content.thriveglobal.com/wp-content/uploads/2018/03/news-1.jpg",
+        "description": "An address book written in JavaScript using browser local storage for storing contacts and cucumber for testing.The user can add contacts and which are being stored and displayed on the page. The application was made to practice local storage in the browser, and testing in javascript with cucumber",
+        "github": "https://github.com/GergKllai1/Adress_book/",
+        "website": "https://craftynews.herokuapp.com/",
+        "technology1": "http://gloify.com/wp-content/uploads/2018/02/rails.png",
+        "technology2": "https://cdn-images-1.medium.com/max/1600/1*wpwQI9X7wWUAeLO4b5537w.png",
+        "technology3": "https://cdn.freebiesupply.com/logos/large/2x/cucumber-logo-png-transparent.png",
+        "technology4": "https://futuremarketing.co/wp-content/uploads/2018/03/Tailwind.png"
+    },
+    {
+        "id": 8,
+        "name": "CARDnD",
+        "image": "https://www.namazi5.com/wp-content/uploads/2018/08/pexels-photo-170811.jpeg",
+        "description": "An address book written in JavaScript using browser local storage for storing contacts and cucumber for testing.The user can add contacts and which are being stored and displayed on the page. The application was made to practice local storage in the browser, and testing in javascript with cucumber",
+        "github": "https://github.com/GergKllai1/CARdnd",
+        "website": "https://gergkllai1.github.io/Adress_book/",
+        "technology1": "http://gloify.com/wp-content/uploads/2018/02/rails.png",
+        "technology2": "https://cdn-images-1.medium.com/max/1600/1*wpwQI9X7wWUAeLO4b5537w.png",
+        "technology3": "https://cdn.freebiesupply.com/logos/large/2x/cucumber-logo-png-transparent.png",
+        "technology4": "https://futuremarketing.co/wp-content/uploads/2018/03/Tailwind.png"
+    },
+    {
+        "id": 9,
+        "name": "Tribal",
+        "image": "https://www.thenational.ae/image/policy:1.719801:1523202284/GettyImages-840886888.jpg?f=16x9&w=1200&$p$f$w=7b619a1",
+        "description": "An address book written in JavaScript using browser local storage for storing contacts and cucumber for testing.The user can add contacts and which are being stored and displayed on the page. The application was made to practice local storage in the browser, and testing in javascript with cucumber",
+        "github": "https://github.com/GergKllai1/tribal",
+        "website": "https://gergkllai1.github.io/Adress_book/",
+        "technology1": "https://cdn-images-1.medium.com/max/1200/1*ohQul8IFYtRTzpGbKaIovA.png",
+        "technology2": "https://cdn-images-1.medium.com/max/1600/1*wpwQI9X7wWUAeLO4b5537w.png",
+        "technology3": "https://cdn.freebiesupply.com/logos/large/2x/cucumber-logo-png-transparent.png",
+        "technology4": "https://futuremarketing.co/wp-content/uploads/2018/03/Tailwind.png"
     }
 ]
