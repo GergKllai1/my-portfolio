@@ -1,7 +1,8 @@
 import React, { Component } from 'react'
 import axios from 'axios';
 import ProjectCard from './ProjectCard';
-import { NavLink } from 'react-router-dom'
+import { NavLink } from 'react-router-dom';
+import './Projects.css'
 
 export default class Projects extends Component {
     constructor() {
@@ -27,7 +28,7 @@ export default class Projects extends Component {
             )
         })
         return (
-            <div className='main page h-auto'>
+            <div className='pl-4 projects page h-auto'>
                 <div className='container'>
                     <div className='row'>
                         {projectList}

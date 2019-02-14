@@ -6,17 +6,17 @@
         "description": "My first website. It's noth much as to be expected, just kept here to see where I come from :)",
         "github": "https://github.com/GergKllai1/GergKllai1.github.io",
         "website": "https://gergkllai1.github.io/",
-        "technology1": "../src/images/html.png",
-        "technology2": "../src/images/css.png"
+        "technology1": "https://www.niou.net/img/parallax-slider/html5.png",
+        "technology2": "https://banner2.kisspng.com/20180402/csq/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg"
     },
     {
         "id": 2,
         "name": "Library Simulator",
-        "image": "https://www.mah.se/ImageVaultFiles/id_16995/cf_90/Orkanenbiblioteket.JPG?",
+        "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
         "description": " A library simulator written in ruby tested with rspec. Users can create a collection, add books to it, people can take out and return books. The application was made to practice basic concepts of application design test driven development and collaboration",
         "github": "https://github.com/GergKllai1/library-challenge",
-        "technology1": "../src/images/ruby.png",
-        "technology2": "../src/images/rspec.png"
+        "technology1": "https://banner2.kisspng.com/20180418/blw/kisspng-computer-icons-ruby-programming-language-computer-ruby-5ad7544e52a215.5043757215240612623385.jpg",
+        "technology2": "https://cdn-images-1.medium.com/max/1600/1*wpwQI9X7wWUAeLO4b5537w.png"
     },
     {
         "id": 3,
@@ -24,18 +24,18 @@
         "image": "https://www.hcu.org/Resources/57bba030-f5e2-460a-8ca3-082e3477c176/ATMbanner.jpg",
         "description": "An ATM simulator written in ruby tested with rspec. Users can make account, deposit, withdraw, get a job and work. The application was made to pratice test driven development, pair programming and the connection between classes.",
         "github": "https://github.com/GergKllai1/ATM_Challenge",
-        "technology1": "../src/images/ruby.png",
-        "technology2": "../src/images/rspec.png"
+        "technology1": "https://banner2.kisspng.com/20180418/blw/kisspng-computer-icons-ruby-programming-language-computer-ruby-5ad7544e52a215.5043757215240612623385.jpg",
+        "technology2": "https://cdn-images-1.medium.com/max/1600/1*wpwQI9X7wWUAeLO4b5537w.png"
     },
     {
         "id": 4,
-        "name": "BMI Calcultator in Javascript",
+        "name": "BMI Calcultator",
         "image": "https://bicepsexercise.in/wp-content/uploads/2018/06/BMI.jpg",
         "description": "A simple BMI calculator written in JavaScript tested with cucumber. User can calculate his/her BMI with a toggle for changing from metric to imperial method. The application was made to pratice JS concepct, testing in JS using cucumber. ",
         "github": "https://github.com/GergKllai1/BMI-calculator",
         "website": "https://bmicalc.netlify.com/",
-        "technology1": "../src/images/js.png",
-        "technology2": "../src/images/cucumber.png"
+        "technology1": "https://cdn.freebiesupply.com/logos/large/2x/javascript-logo-png-transparent.png",
+        "technology2": "https://cdn.freebiesupply.com/logos/large/2x/cucumber-logo-png-transparent.png"
     },
     {
         "id": 5,
@@ -44,7 +44,7 @@
         "description": "An address book written in JavaScript using browser local storage for storing contacts and cucumber for testing.The user can add contacts and which are being stored and displayed on the page. The application was made to practice local storage in the browser, and testing in javascript with cucumber",
         "github": "https://github.com/GergKllai1/Adress_book/",
         "website": "https://gergkllai1.github.io/Adress_book/",
-        "technology1": "../src/images/js.png",
-        "technology2": "../src/images/cucumber.png"
+        "technology1": "https://cdn.freebiesupply.com/logos/large/2x/javascript-logo-png-transparent.png",
+        "technology2": "https://cdn.freebiesupply.com/logos/large/2x/cucumber-logo-png-transparent.png"
     }
 ]
